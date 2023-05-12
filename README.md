@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am CS student with a curious mind trying to learn new technologies to solve real-world problems
+I am into Full Stack Web Dev and Java Programming
+Likes to learn, code and break and create things.
